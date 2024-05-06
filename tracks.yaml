@@ -109,7 +109,7 @@ tracks:
     name: robot_localization
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: git@github.com:revyos-ros/robot_localization-release.git
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
