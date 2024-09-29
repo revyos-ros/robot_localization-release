@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/robot_localization-release.git
 tracks:
   dashing:
     actions:
