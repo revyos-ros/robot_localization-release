@@ -1,3 +1,26 @@
+## robot_localization (jazzy) - 3.8.1-1
+
+The packages in the `robot_localization` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy robot_localization --override-release-repository-push-url git@github.com:revyos-ros/robot_localization-release.git` on `Sun, 29 Sep 2024 04:52:06 -0000`
+
+The `robot_localization` package was released.
+
+Version of package(s) in repository `robot_localization`:
+
+- upstream repository: https://github.com/cra-ros-pkg/robot_localization.git
+- release repository: https://github.com/revyos-ros/robot_localization-release.git
+- rosdistro version: `3.8.1-1`
+- old version: `3.8.0-1`
+- new version: `3.8.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## robot_localization (humble) - 3.5.3-2
 
 The packages in the `robot_localization` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble robot_localization` on `Mon, 06 May 2024 04:00:03 -0000`
